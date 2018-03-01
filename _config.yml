@@ -17,10 +17,9 @@ title: F# all the things
 description: >- # this means to ignore newlines until "baseurl:"
   Ranting about F#
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://atlemann.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: atlerudshaug
-github_username:  atlemann
-google_analytics: UA-114920598-1
+url: "https://eleriane.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: benany
+github_username:  eleriane 
 
 # Build settings
 markdown: kramdown
